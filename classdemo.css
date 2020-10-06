@@ -14,14 +14,14 @@ body {
   margin: 20px auto;
 }
 
-#container ul {
+ul {
   display: flex;
   flex-direction: column;
   margin-top: 25px;
   padding-left: 20px;
 }
 
-#container ul li {
+ul li {
   list-style-type: none;
   padding: 0px 5px 10px 5px;
   font-size: 0.9rem;
