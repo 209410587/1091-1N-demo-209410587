@@ -25,5 +25,9 @@ function change(index) {
       p.innerHTML =
         '<iframe width=100% height=100% src="./w04-tku60-js/div_tku60.html" />';
       break;
+    case 7:
+      p.innerHTML =
+        '<iframe width=100% height=100% src="./w07-MSClone/index.html" />';
+      break;
   }
 }
